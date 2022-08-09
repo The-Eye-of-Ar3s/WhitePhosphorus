@@ -1,0 +1,28 @@
+{
+    "Enabled": true,
+    "PVS14": {
+        "Mask": "OldMonocular",
+        "MaskSize": 1,
+        "Enabled": true,
+        "Noise": false
+    },
+    "PNV10T": {
+        "Mask": "Binocular",
+        "MaskSize": 1,
+        "Enabled": true,
+        "Noise": false,
+        "MountFix": true
+    },
+    "N15": {
+        "Mask": "Binocular",
+        "MaskSize": 1,
+        "Enabled": true,
+        "Noise": false
+    },
+    "GPNVG18": {
+        "Mask": "Anvis",
+        "MaskSize": 1,
+        "Enabled": true,
+        "Noise": false
+    }
+}
