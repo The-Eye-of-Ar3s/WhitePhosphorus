@@ -40,7 +40,7 @@ class Mod implements IPostDBLoadMod
                 pnv10t._props.Color = color; // Color Filter of PVS-14 Goggles
                 if (this.modConfig.PNV10T.MountFix)
                 {
-                    const mount = items["5a16b93dfcdbcbcae6687261"];
+                    const mount = items["5c0695860db834001b735461"];
                     mount._props.Slots[0]._props.filters[0].Filter.push("5c066e3a0db834001b7353f0");
                 }
             }
