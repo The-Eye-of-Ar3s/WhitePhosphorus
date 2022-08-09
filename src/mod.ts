@@ -16,7 +16,7 @@ class Mod implements IPostDBLoadMod
             //const logger = container.resolve<ILogger>("WinstonLogger");
 
             const color = {"r": 150, "g": 214, "b": 240, "a": 254}
-            const intensity = 1.5;
+            const intensity = 1.62;
 
             if (this.modConfig.PVS14.Enabled)
             {
@@ -41,7 +41,7 @@ class Mod implements IPostDBLoadMod
                 if (this.modConfig.PNV10T.MountFix)
                 {
                     const mount = items["5a16b93dfcdbcbcae6687261"];
-                    mount._props.Slots[0]._props.filters[0].Filter.push("5c0696830db834001d23f5da");
+                    mount._props.Slots[0]._props.filters[0].Filter.push("5c066e3a0db834001b7353f0");
                 }
             }
 
