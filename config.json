@@ -10,14 +10,14 @@
         "Mask": "Binocular",
         "MaskSize": 1,
         "Enabled": true,
-        "Noise": false,
-        "MountFix": true
+        "Noise": false
     },
     "N15": {
         "Mask": "Binocular",
         "MaskSize": 1,
         "Enabled": true,
-        "Noise": false
+        "Noise": false,
+        "MountFix": true
     },
     "GPNVG18": {
         "Mask": "Anvis",
