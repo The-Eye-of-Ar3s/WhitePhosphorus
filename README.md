@@ -1,4 +1,4 @@
-# Config - v1.0.1 for SPT 3.2.0
+# Config - v3.0.0 for SPT 3.2.0
 
 - Enabled -- Wether the enitre mod is enabled. Takes [true] or [false]
 - PVS-14
